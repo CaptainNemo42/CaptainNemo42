@@ -11,18 +11,20 @@
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 #### Projetos Atuais
--
-- 
-- 
-### Minhas Contribuições recentes:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainNemo42&show_icons=true&theme=tokyonight)
+- 🧙‍♂️ https://github.com/CaptainNemo42/MAGI 🧙‍♂️
+- 📖 https://github.com/CaptainNemo42/TOMO 📖
+- ⚔️ https://github.com/CaptainNemo42/Counter ⚔️
+#### Para Treinamento/Aprendizado:
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Joao-VictorV177)
+### Minhas Contribuições Recentes:
+![Nemo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainNemo42&show_icons=true&theme=tokyonight)
 ### Estou trabalhando com:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainNemo42&theme=blue-green)
 ## Gosto de trabalhar com:
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-## Uso para Prototipação:
+## Prototipação:
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-## Com o apoio dos sistemas:
+## Sistemas Operacionais:
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
