@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.nemo42@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-valadares-fernandes-439678219/)
 <div>
     <div style="display: inline_block"><br>
-    <img align="right" src ="https://drive.google.com/file/d/1ay83dKDeQeEatCawW9t1TwGXHISyxEz7/view?usp=sharing">
+    <img align="right" src ="https://cdn.discordapp.com/attachments/716462074934329347/1197390943175848126/New_Piskel-1.png.png?ex=6640e877&is=663f96f7&hm=0244f1f7ca08f315a0eb185094b425a774abe7fda1c11f447cd2ef8e3963e5fa&">
 </div>
 
 ## Sou um Dev Jr. que utiliza as linguagens:
